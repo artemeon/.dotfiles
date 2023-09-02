@@ -36,6 +36,10 @@ echo 'Install Firefox'
 echo '---------------'
 brew install --cask firefox
 
+echo 'Install Microsoft Edge'
+echo '----------------------'
+brew install --cask microsoft-edge
+
 echo 'Install TablePlus'
 echo '-----------------'
 brew install --cask tableplus
@@ -80,6 +84,14 @@ echo 'Install Laravel Valet'
 echo '---------------------'
 composer global require laravel/valet
 valet install
+
+echo 'Install Mantis2GitHub'
+echo '---------------------'
+composer global require artemeon/mantis2github
+
+echo 'Install AGP Installer'
+echo '---------------------'
+composer global require artemeon/installer
 
 echo 'Install PHP Monitor'
 echo '-------------------'
