@@ -134,6 +134,10 @@ echo 'Install Microsoft Outlook'
 echo '------------------------'
 brew install --cask microsoft-outlook
 
+echo 'Install OpenVPN Connect'
+echo '-----------------------'
+brew install --cask openvpn-connect
+
 echo '++++++++++++++++++++++++++++++'
 echo '++++++++++++++++++++++++++++++'
 echo 'All done!'

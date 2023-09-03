@@ -34,3 +34,4 @@
 - [Microsoft Excel](https://www.microsoft.com/microsoft-365)
 - [Microsoft PowerPoint](https://www.microsoft.com/microsoft-365)
 - [Microsoft Outlook](https://www.microsoft.com/microsoft-365)
+- [OpenVPN Connect](https://openvpn.net/client-connect-vpn-for-mac-os/)
