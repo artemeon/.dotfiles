@@ -10,6 +10,10 @@ sudo rm -rf /usr/local/Cellar /usr/local/.git && brew cleanup
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> $homedir
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
+echo 'Install GIT'
+echo '-----------'
+brew install git
+
 echo 'Install node'
 echo '------------'
 brew install node

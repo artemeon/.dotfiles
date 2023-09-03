@@ -9,6 +9,7 @@
 ## What's included
 
 - [Homebrew](https://brew.sh/)
+- [GIT](https://git-scm.com/)
 - [Node](https://nodejs.org/)
 - [PHPStorm](https://www.jetbrains.com/phpstorm/)
 - [Google Chrome](https://www.google.com/chrome/)
