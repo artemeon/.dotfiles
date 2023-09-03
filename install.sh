@@ -118,6 +118,22 @@ echo 'Install Microsoft Teams'
 echo '-----------------------'
 brew install --cask microsoft-teams
 
+echo 'Install Microsoft Word'
+echo '------------------------'
+brew install --cask microsoft-word
+
+echo 'Install Microsoft Excel'
+echo '------------------------'
+brew install --cask microsoft-excel
+
+echo 'Install Microsoft PowerPoint'
+echo '------------------------'
+brew install --cask microsoft-powerpoint
+
+echo 'Install Microsoft Outlook'
+echo '------------------------'
+brew install --cask microsoft-outlook
+
 echo '++++++++++++++++++++++++++++++'
 echo '++++++++++++++++++++++++++++++'
 echo 'All done!'

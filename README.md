@@ -30,3 +30,7 @@
 - [DBngin](https://dbngin.com/)
 - [pnpm](https://pnpm.io/)
 - [Microsoft Teams](https://www.microsoft.com/microsoft-teams/)
+- [Microsoft Word](https://www.microsoft.com/microsoft-365)
+- [Microsoft Excel](https://www.microsoft.com/microsoft-365)
+- [Microsoft PowerPoint](https://www.microsoft.com/microsoft-365)
+- [Microsoft Outlook](https://www.microsoft.com/microsoft-365)
