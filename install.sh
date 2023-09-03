@@ -28,6 +28,10 @@ echo 'Install pkg-config'
 echo '------------------'
 brew install pkg-config
 
+echo 'Install wget'
+echo '------------'
+brew install wget
+
 echo 'Install PHPStorm'
 echo '----------------'
 brew install --cask phpstorm

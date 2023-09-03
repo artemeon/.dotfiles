@@ -11,6 +11,8 @@
 - [Homebrew](https://brew.sh/)
 - [GIT](https://git-scm.com/)
 - [Node](https://nodejs.org/)
+- pkg-config
+- wget
 - [PHPStorm](https://www.jetbrains.com/phpstorm/)
 - [Google Chrome](https://www.google.com/chrome/)
 - [Mozilla Firefox](https://www.mozilla.org/firefox/)
