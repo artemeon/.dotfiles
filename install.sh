@@ -106,6 +106,10 @@ echo 'Install pnpm'
 echo '------------'
 brew install pnpm
 
+echo 'Install Microsoft Teams'
+echo '-----------------------'
+brew install --cask microsoft-teams
+
 echo '++++++++++++++++++++++++++++++'
 echo '++++++++++++++++++++++++++++++'
 echo 'All done!'
