@@ -32,7 +32,7 @@ echo 'Install Google Chrome'
 echo '---------------------'
 brew install --cask google-chrome
 
-echo 'Install Firefox'
+echo 'Install Mozilla Firefox'
 echo '---------------'
 brew install --cask firefox
 
@@ -89,7 +89,7 @@ echo 'Install Mantis2GitHub'
 echo '---------------------'
 composer global require artemeon/mantis2github
 
-echo 'Install AGP Installer'
+echo 'Install ARTEMEON Installer'
 echo '---------------------'
 composer global require artemeon/installer
 
