@@ -1,5 +1,9 @@
 # ARTEMEON Dotfiles
 
+## Prerequirements
+
+1. [XCode](https://apps.apple.com/de/app/xcode/id497799835) installed
+
 ## Install
 
 ```shell
